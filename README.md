@@ -51,14 +51,14 @@
 ### Основной интерфейс
 
 <p align="center">
-  <img src="screenshots/main.png" alt="Main Interface" width="600"/>
+  <img src="screenshots/main.png" alt="Main Interface" width="300"/>
   <br><em>Основное окно приложения со списком заклинаний</em>
 </p>
 
 ### Настройки
 
 <p align="center">
-  <img src="screenshots/settings.png" alt="Settings Dialog" width="600"/>
+  <img src="screenshots/settings.png" alt="Settings Dialog" width="300"/>
   <br><em>Гибкая настройка клавиш и параметров</em>
 </p>
 
