@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-informational?style=for-the-badge)](https://github.com/MakeHimCake/InvokerEasySpellsCaster/releases/tag/release)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20-informational?style=for-the-badge)](https://github.com/MakeHimCake/InvokerEasySpellsCaster/releases/tag/release)
 
 <p align="center">
   <strong>Макрос, упрощающий применение заклинаний в Dota 2</strong><br>
